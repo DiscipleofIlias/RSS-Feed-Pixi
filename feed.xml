@@ -4,42 +4,48 @@
     <title>Pixibots Updates</title>
     <link>https://pixibots.neocities.org/#new</link>
     <description>RSS feed for Pixibots</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:56:18 GMT</lastBuildDate>
     <item>
-      <title>Released Etienne</title>
-      <description>2025-02-25</description>
+      <title>2025-02-25 - Released Etienne</title>
+      <description>Released Etienne</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">3af2607067548b716dc63c93c5ab3f93</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Added usage terms page</title>
-      <description>2025-02-21</description>
+      <title>2025-02-21 - Added usage terms page</title>
+      <description>Added usage terms page</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">360b0bfa8a109d03f2118cb86bd78522</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Updated weep to v4.1</title>
-      <description>2025-02-05</description>
+      <title>2025-02-05 - Updated weep to v4.1</title>
+      <description>Updated weep to v4.1</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">3625d59324826fa7bc705e0c6b7615a6</guid>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Updated weep to v4</title>
-      <description>2025-01-26</description>
+      <title>2025-01-26 - Updated weep to v4</title>
+      <description>Updated weep to v4</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">0ac93496cf43fce199ec0511e7884624</guid>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Updated weep to v3.1</title>
-      <description>2025-01-22</description>
+      <title>2025-01-22 - Updated weep to v3.1</title>
+      <description>Updated weep to v3.1</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">89b20f9d35a6a10c5ea2107aae388f66</guid>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Updated minnie to v5</title>
-      <description>2025-01-13</description>
+      <title>2025-01-13 - Updated minnie to v5</title>
+      <description>Updated minnie to v5</description>
       <link>https://pixibots.neocities.org/#new</link>
-      <pubDate>Thu, 15 Jan 2026 12:22:56 GMT</pubDate>
+      <guid isPermaLink="false">802be02b04c3fe8758295e08345d2301</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
